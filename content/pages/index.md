@@ -5,15 +5,15 @@ Template: index
 
 <div class="row">
     <div class="col-lg-4">
-      <h3>lectures</h3>
+      <h3>Lectures</h3>
       <p class="text-info">Lectures will be posted here.</p>
     </div><!-- /.col-lg-4 -->
     <div class="col-lg-4">
-      <h3>labs</h3>
+      <h3>Labs</h3>
       <p class="text-info">Notebooks from labs will be posted here</p>
     </div><!-- /.col-lg-4 -->
     <div class="col-lg-4">
-      <h3>homeworks</h3>
+      <h3>Homework</h3>
       <p class="text-info">Homework will be announced here</p>
     </div><!-- /.col-lg-4 -->
 </div>
