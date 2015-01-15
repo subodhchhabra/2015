@@ -1,5 +1,5 @@
-AUTHOR = u'Professor'
-SITENAME = u'Class'
+AUTHOR = u'Verena Kaynig-Fittkau and Pavlos Protopapas'
+SITENAME = u'AM207'
 
 FULL_NAME="Verena Kaynig-Fittkau and Pavlos Protopapas"
 FULL_SITE="Monte Carlo Methods, Stochastic Optimization"

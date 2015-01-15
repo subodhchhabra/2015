@@ -3,8 +3,6 @@
 from __future__ import unicode_literals
 from sitestuff import *
 
-
-
 SITEURL = ''
 
 PATH = 'content'
@@ -32,7 +30,7 @@ TWITTER_USERNAME="Author"
 DEFAULT_PAGINATION = 10
 MD_EXTENSIONS = ['codehilite(css_class=highlight)', 'extra']
 # Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
+RELATIVE_URLS = True
 NEWEST_FIRST_ARCHIVES = True
 
 USE_FOLDER_AS_CATEGORY=False
