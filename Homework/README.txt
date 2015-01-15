@@ -1,0 +1,1 @@
+This folder is PUBLIC and should contain the homework assignments and the solutions.
