@@ -36,9 +36,9 @@ Staff mailing list is soon to come.
 
 ## Logistics
 
-**Lectures:** Tuesday and Thursday 11:30 - 1 pm, Maxwell Dworkin 125
+**Lectures:** Tuesday and Thursday 11:30 - 1 pm, Maxwell Dworkin 115
 
-**Lab:** TBA (most likely Friday morning)
+**Lab:** Friday 9:30 - 11, room TBA
 
 **Office hours Verena**: Tuesday 2-3pm, Northwest 235.1
 

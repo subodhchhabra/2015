@@ -7,11 +7,11 @@ Author: Pavlos Protopapas
 
 ** Tuesday Jan 27 **
 
-Lecture 1: Preview of the course and the topics
+Lecture 1: Blizzard fun in the snow
 
 ** Thursday Jan 29 **
 
-Lecture 2: Recap: Probabilities, distributions, regression and some linear algebra
+Lecture 2: Short preview of the course and recap: Probabilities, distributions, regression and some linear algebra
 
 ### Week 2 Feb 2 - Feb 8
 
