@@ -38,7 +38,7 @@ Staff mailing list is soon to come.
 
 **Lectures:** Tuesday and Thursday 11:30 - 1 pm, Maxwell Dworkin 115
 
-**Lab:** Friday 9:30 - 11, room TBA
+**Lab:** Friday 9:30 - 11, Cruft 309
 
 **Office hours Verena**: Tuesday 2-3pm, Northwest 235.1
 
