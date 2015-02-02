@@ -44,4 +44,5 @@ Staff mailing list is soon to come.
 
 **Office hours Verena**: Tuesday 2-3pm, Northwest 235.1
 
+**TF office hours:** As announced on Piazza
 
