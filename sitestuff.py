@@ -11,7 +11,7 @@ LINKS =  (('Piazza', 'https://piazza.com/harvard/spring2015/am207/home'),
           ('Live Classroom', 'http://cm.dce.harvard.edu/2015/02/24104/liveClassroom.shtml'),
           ('Videos', 'http://cm.dce.harvard.edu/2015/02/24104/publicationListing.shtml'),
           ('Dropbox', 'http://isites.harvard.edu/icb/icb.do?keyword=k109999&login=yes'),
-          ('Dropbox DCE', 'http://isites.harvard.edu/icb/icb.do?keyword=k110304&pageid=icb.page727592&pageContentId=icb.pagecontent1592193&state=maximize'),
+          ('Dropbox DCE', 'http://isites.harvard.edu/icb/icb.do?keyword=k110304&pageid=icb.page727592'),
           ('Github', 'https://github.com/AM207/2015'),
           ('Chat', 'http://chat.dce.harvard.edu/'),)
           
