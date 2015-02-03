@@ -46,7 +46,7 @@ Staff mailing list is soon to come.
 
 **Lab:** Friday 9:30 - 11, Cruft 309
 
-**Office hours Verena**: Tuesday 2-3pm, Northwest 235.1
+**Office hours Verena**: Tuesday 2-3pm, Northwest B164 (IACS Area)
 
 **TF office hours:** As announced on Piazza
 
