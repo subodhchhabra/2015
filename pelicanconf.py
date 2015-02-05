@@ -47,11 +47,11 @@ ARTICLE_EXCLUDES=['pages','othermd']
 start = SITEURL
 def do_menuitems(start):
     menuitems = [
-          ('Schedule', "%s/schedule.html" % start ),
-          ('Syllabus', "%s/syllabus.html" % start ),
-          ('Policies', "%s/policies.html" % start ),
-          ('Resources', "%s/resources.html" % start ),
-          ('Contact', "%s/contact.html" % start ),
+          ('Schedule', "%s/2015/schedule.html" % start ),
+          ('Syllabus', "%s/2015/syllabus.html" % start ),
+          ('Policies', "%s/2015/policies.html" % start ),
+          ('Resources', "%s/2015/resources.html" % start ),
+          ('Contact', "%s/2015/contact.html" % start ),
           ]
     return menuitems
 MENUITEMS = do_menuitems(start)
