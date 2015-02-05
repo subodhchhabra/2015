@@ -1,6 +1,9 @@
 Title: Resources
 Author: Pavlos Protopapas
 
+### Videos from last year
+[Pavlos lectures](http://cm.dce.harvard.edu/2014/02/24104/publicationListing.shtml)
+
 ### Book recommendations
 
 Please note there there is no required textbook for this course.
