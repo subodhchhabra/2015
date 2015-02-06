@@ -10,13 +10,13 @@ Template: index
 	<br>
     <a href="http://nbviewer.ipython.org/github/AM207/2015/blob/master/Lectures/Lecture01_Probability_Review.ipynb"> Lecture 01 - notebook </a>
 	<br>
-	<a href="https://github.com/AM207/2015/blob/master/Lectures/L03_Monte_Carlo_Methods_Notes.pdf?raw=true"> Lecture 03 - notes </a>
+	<a href="https://github.com/AM207/2015/blob/master/Lectures/Lecture03_Monte_Carlo_Methods_Notes.pdf?raw=true"> Lecture 03 - notes </a>
 	<br>
     <a href="http://nbviewer.ipython.org/github/AM207/2015/blob/master/Lectures/Lecture03_Monte_Carlo_Methods_Slides.ipynb"> Lecture 03 - examples </a>
 	<br>
     <a href="http://nbviewer.ipython.org/github/AM207/2015/blob/master/Lectures/Lecture03_Monte_Carlo_Methods.ipynb"> Lecture 03 - notebook </a>
 	<br>
-	<a href="https://github.com/AM207/2015/blob/master/Lectures/L04_Variance_Reduction_Methods_Notes.pdf?raw=true"> Lecture 04 - notes </a>
+	<a href="https://github.com/AM207/2015/blob/master/Lectures/Lecture04_Variance_Reduction_Methods_Notes.pdf?raw=true"> Lecture 04 - notes </a>
 	<br>
     <a href="http://nbviewer.ipython.org/github/AM207/2015/blob/master/Lectures/Lecture04_Variance_Reduction_Methods_Slides.ipynb"> Lecture 04 - examples </a>
 	<br>
