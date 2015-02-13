@@ -31,6 +31,9 @@ Template: index
       <a href="http://nbviewer.ipython.org/github/AM207/2015/blob/master/Homework/HW0.ipynb"> Homework 0 </a>
 	  <br>
       <a href="http://nbviewer.ipython.org/github/AM207/2015/blob/master/Homework/HW1.ipynb"> Homework 1 </a>
+	  <br>
+      <a href="http://nbviewer.ipython.org/github/AM207/2015/blob/master/Homework/HW2.ipynb"> Homework 2 </a>
+
     </div><!-- /.col-lg-4 -->
 </div>
 <hr/>
