@@ -23,6 +23,18 @@ Your course grade is calculated as:
 
 Participation includes discussions during lectures and labs (for non-extension school students) as well as discussions on Piazza.
 
+## Grading
+
+Teaching Fellows will evaluate your work holistically, focussing on the overall quality of the work using the following scale:
+
+5 Points: Exceptional / above and beyond
+4 Points: Solid / no mistakes (or really minor)
+3 Points: Good / some mistakes
+2 Points: Fair / some major conceptual errors
+1 Point : Poor / did not finish?
+0 Points: Did not participate / did not hand in
+
+What we are looking for is your understanding of the problem. This means that it is very important for you to communicate your understanding. Undocumented code often does not very well communicate this. Think of your homework as a report to a knowledgable peer. Explain your approach and the solution, and your expectations and surprises along the way. 
 
 ## Originality and Plagiarization
 You must do your own work, we have zero-tolerance for plagiarization.
