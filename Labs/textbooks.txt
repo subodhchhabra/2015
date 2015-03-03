@@ -1,0 +1,29 @@
+#The total costs of textbooks purchased by students 
+#taking Math 206 for the spring semester 2002. 
+
+
+#textbooks
+338
+160
+210
+180
+166
+272
+128
+409
+240
+250
+160
+300
+340
+200
+194
+132
+202
+180
+420
+380
+325
+185
+233
+198
