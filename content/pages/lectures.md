@@ -55,4 +55,11 @@ Author: Verena Kaynig-Fittkau and Pavlos Protopapas
 <br>
 <a href="http://nbviewer.ipython.org/github/AM207/2015/blob/master/Lectures/Lecture09_Predictive_Probability_and_Gibbs.ipynb"> Lecture 09 - notebook </a>
 </p>
-
+<p>
+<a href="https://github.com/AM207/2015/blob/master/Lectures/Lecture10_More_Gibbs_Notes.pdf?raw=true"> Lecture 10 - notes </a>
+<br>
+<a href="http://nbviewer.ipython.org/github/AM207/2015/blob/master/Lectures/Lecture10_More_Gibbs_Slides.ipynb"> Lecture 10 - examples </a>
+</p>
+<p>
+<a href="http://nbviewer.ipython.org/github/AM207/2015/blob/master/Lectures/Lecture11_DataAugmentation_SliceSampling.ipynb"> Lecture 11 - notebook </a>
+</p>

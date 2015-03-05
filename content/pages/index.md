@@ -6,29 +6,15 @@ Template: index
 <div class="row">
     <div class="col-lg-4">
     <h3>Lectures</h3>
-<a href="https://github.com/AM207/2015/blob/master/Lectures/Lecture09_Predictive_Probability_and_Gibbs_Notes.pdf?raw=true"> Lecture 09 - notes </a>
-<br>
-<a href="http://nbviewer.ipython.org/github/AM207/2015/blob/master/Lectures/Lecture09_Predictive_Probability_and_Gibbs_Slides.ipynb"> Lecture 09 - examples </a>
-<br>
-<a href="http://nbviewer.ipython.org/github/AM207/2015/blob/master/Lectures/Lecture09_Predictive_Probability_and_Gibbs.ipynb"> Lecture 09 - notebook </a>
+	<a href="http://nbviewer.ipython.org/github/AM207/2015/blob/master/Lectures/Lecture11_DataAugmentation_SliceSampling.ipynb"> Lecture 11 - notebook </a>
 	</div><!-- /.col-lg-4 -->
     <div class="col-lg-4">
       <h3>Labs</h3>
       <p class="text-info">Notebooks from labs will be posted here</p>
     </div><!-- /.col-lg-4 -->
     <div class="col-lg-4">
-      <h3>Homework</h3>
-      <a href="http://nbviewer.ipython.org/github/AM207/2015/blob/master/Homework/HW0.ipynb"> Homework 0 </a>
-	  <br>
-      <a href="http://nbviewer.ipython.org/github/AM207/2015/blob/master/Homework/HW1.ipynb"> Homework 1 </a>
-	  <br>
-	  <a href="http://nbviewer.ipython.org/github/AM207/2015/blob/master/Homework/HW1_solution.ipynb"> Homework 1 - solution</a>
-	  <br>
-      <a href="http://nbviewer.ipython.org/github/AM207/2015/blob/master/Homework/HW2.ipynb"> Homework 2 </a>
-	  <br>
-      <a href="http://nbviewer.ipython.org/github/AM207/2015/blob/master/Homework/HW3.ipynb"> Homework 3 </a>
-	  <br>
-	  <a href="http://nbviewer.ipython.org/github/AM207/2015/blob/master/Homework/HW4.ipynb"> Homework 4 </a>
+    <h3>Homework</h3>
+	<a href="http://nbviewer.ipython.org/github/AM207/2015/blob/master/Homework/HW5.ipynb"> Homework 5 </a>
     </div><!-- /.col-lg-4 -->
 </div>
 <hr/>
