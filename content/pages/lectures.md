@@ -63,3 +63,9 @@ Author: Verena Kaynig-Fittkau and Pavlos Protopapas
 <p>
 <a href="http://nbviewer.ipython.org/github/AM207/2015/blob/master/Lectures/Lecture11_DataAugmentation_SliceSampling.ipynb"> Lecture 11 - notebook </a>
 </p>
+<p>
+<a href="http://nbviewer.ipython.org/github/AM207/2015/blob/master/Lectures/Lecture12_More_hierarchical_Bayes.ipynb"> Lecture 12 - final project inspiration </a>
+</p>
+<p>
+<a href="http://nbviewer.ipython.org/github/AM207/2015/blob/master/Lectures/Lecture13_Hamiltonian.ipynb"> Lecture 13 - notebook </a>
+</p>

@@ -6,7 +6,7 @@ Template: index
 <div class="row">
     <div class="col-lg-4">
     <h3>Lectures</h3>
-	<a href="http://nbviewer.ipython.org/github/AM207/2015/blob/master/Lectures/Lecture11_DataAugmentation_SliceSampling.ipynb"> Lecture 11 - notebook </a>
+	<a href="http://nbviewer.ipython.org/github/AM207/2015/blob/master/Lectures/Lecture13_Hamiltonian.ipynb"> Lecture 13 - notebook </a>
 	</div><!-- /.col-lg-4 -->
     <div class="col-lg-4">
       <h3>Labs</h3>
@@ -14,7 +14,7 @@ Template: index
     </div><!-- /.col-lg-4 -->
     <div class="col-lg-4">
     <h3>Homework</h3>
-	<a href="http://nbviewer.ipython.org/github/AM207/2015/blob/master/Homework/HW5.ipynb"> Homework 5 </a>
+	<a href="http://nbviewer.ipython.org/github/AM207/2015/blob/master/Homework/HW6.ipynb"> Homework 6 </a>
     </div><!-- /.col-lg-4 -->
 </div>
 <hr/>

@@ -24,4 +24,7 @@ Author: Verena Kaynig-Fittkau and Pavlos Protopapas
 <p>
 <a href="http://nbviewer.ipython.org/github/AM207/2015/blob/master/Homework/HW5.ipynb"> Homework 5 </a>
 </p>
+<p>
+<a href="http://nbviewer.ipython.org/github/AM207/2015/blob/master/Homework/HW6.ipynb"> Homework 6 </a>
+</p>
 

@@ -27,51 +27,54 @@ Lecture 4: Variance reduction methods
 
 ** Tuesday Feb 10 **
 
-Lecture 5: Bayesian fun: formalism, priors, posteriors
+No Lecture due to Blizzard
+
 
 ** Thursday Feb 12 **
 
-Lecture 6: Bayes part II: Regression, Generative Models, etc
+Lecture 5: Bayesian fun: formalism, priors, posteriors
 
 ### Week 4 Feb 16 - Feb 22
 
 ** Tuesday Feb 17 **
 
-Lecture 7: Markov Chain Monte Carlo: detailed balance, multivariate MCMC
+Lecture 6: Bayes part II: Regression, Generative Models, etc
 
 ** Thursday Feb 19 **
 
-Lecture 8: Variance reduction in MCMC, more examples
+Lecture 7: Markov Chain Monte Carlo: detailed balance, multivariate MCMC
+
 
 ### Week 5 Feb 23 - Mar 1
 
 ** Tuesday Feb 24 **
 
-Lecture 9: Gibbs sampling
+Lecture 8: MCMC Convergence
+
 
 ** Thursday Feb 26 **
 
-Lecture 10: More Gibbs sampling and data augmentation
+Lecture 9: Gibbs sampling
 
 ### Week 6 Mar 2 - Mar 8
 
 ** Tuesday Mar 3 **
 
-Lecture 11: Slice MC and multivariate slice MC
+Lecture 10: More Gibbs sampling and hierarchical Bayes
 
 ** Thursday Mar 5 **
 
-Lecture 12: Hamiltonian MC
+Lecture 11: Data augmentation, Slice MC and multivariate slice MC
 
 ### Week 7 Mar 9 - Mar 15
 
 ** Tuesday Mar 10 **
 
-Lecture 13: Advanced MCMC: Multi nest and parallel tempering
+Lecture 12: Final project schedule and more hierarchical Bayes.
 
 ** Thursday Mar 12 **
 
-Lecture 14: Simulated Annealing
+Lecture 13: Hamiltonian MCMC
 
 ### Week 8 Mar 16 - Mar 22
 
@@ -81,51 +84,51 @@ Spring Recess
 
 ** Tuesday Mar 24 **
 
-Lecture 15: Genetic Algorithms
+Lecture 14: Advanced MCMC: Multi nest and parallel tempering
 
 ** Thursday Mar 26 **
 
-Lecture 16: Stochastic gradient decent
+Lecture 15: Simulated Annealing
 
 ### Week 10 Mar 30 - Apr 5
 
 ** Tuesday Mar 31 **
 
-Lecture 17: Time series, stationarity, ARIMA etc.
+Lecture 16: Genetic Algorithms
 
 ** Thursday Apr 2 **
 
-Lecture 18: HMM, Viterbi, Kalman filters, etc. 
+Lecture 17: Stochastic Gradient Decent
 
 ### Week 11 Apr 6 - Apr 12
 
 ** Tuesday Apr 7 **
 
-Lecture 19: Sequential Monte Carlo, particle filters
+Lecture 18: Time series, stationarity, ARIMA etc.
 
 ** Thursday Apr 9 **
 
-Lecture 20: Gaussian Processes
+Lecture 19: HMM, Viterbi, Kalman filters, etc. 
 
 ### Week 12 Apr 13 - Apr 19
 
 ** Tuesday Apr 14 **
 
-Lecture 21: EM mixture model
+Lecture 20: Sequential Monte Carlo, particle filters
 
 ** Thursday Apr 16 **
 
-Lecture 22: Probabilistic Graphical Models
+Lecture 21:Gaussian Processes
 
 ### Week 13 Apr 20 - Apr 26
 
 ** Tuesday Apr 21 **
 
-Lecture 23: Bayesian Averaging
+Lecture 22: EM mixture models and Probabilisic Graphical Models
 
 ** Thursday Apr 23 **
 
-Lecture 24: Dynamic Bayesian Averaging
+Lecture 23: Bayesian Averaging
 
 ### Week 14 Apr 27 - May 3
 
