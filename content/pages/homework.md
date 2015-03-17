@@ -20,6 +20,8 @@ Author: Verena Kaynig-Fittkau and Pavlos Protopapas
 </p>
 <p>
 <a href="http://nbviewer.ipython.org/github/AM207/2015/blob/master/Homework/HW4.ipynb"> Homework 4 </a>
+<br>
+<a href="http://nbviewer.ipython.org/github/AM207/2015/blob/master/Homework/HW4_solution.ipynb"> Homework 4 - solution </a>
 </p>
 <p>
 <a href="http://nbviewer.ipython.org/github/AM207/2015/blob/master/Homework/HW5.ipynb"> Homework 5 </a>
